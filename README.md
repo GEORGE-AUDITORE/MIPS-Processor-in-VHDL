@@ -176,4 +176,4 @@ This project was developed as part of a university Digital Systems / Computer Ar
 
 ## Author
 
-Developed by George Auditore as a university project.
+Developed by George Kranis as a university project.
